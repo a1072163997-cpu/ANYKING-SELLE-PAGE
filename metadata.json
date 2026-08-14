@@ -1,0 +1,6 @@
+{
+  "name": "ASUS ZenScreen Fold OLED MQ17QH",
+  "description": "Replica of the official ASUS ZenScreen Fold OLED MQ17QH product showcase website with interactive folding monitor preview, OLED display visualizer, specifications, comparison, and gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
